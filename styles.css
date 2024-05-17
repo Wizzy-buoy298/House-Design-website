@@ -1,0 +1,32 @@
+body {
+   font-family:Arial, sans-serif;
+   background-color:#f8f9fa;
+}
+ .container {
+  margin: top 50px;          
+ }
+ .navbar-brand {
+     font-size: 1.5rem;
+     font-weight :bold; 
+ }
+ .jumbotron{
+  background-image: url(Pngtree—exterior design of a modern_3683269.jpg); 
+  background-size:cover;
+  color: white;
+  text-align:center    
+ }
+ .jumbotron .display-4 {
+     font-size: 2.5rem;
+#home {
+     background:rgba(0,0,0,0.5);
+}     
+ }
+ section {
+     padding: 60px 0; 
+ }
+ h1 ,h2 {
+     margin-bottom:20 px;
+ }
+form .form-group {
+   margin-bottom: 1 rem;
+}
